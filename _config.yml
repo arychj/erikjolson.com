@@ -26,7 +26,7 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-strata
+remote_theme: DavidForster/strata-jekyll
 plugins:
   - jekyll-feed
 

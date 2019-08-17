@@ -33,10 +33,6 @@ GEM
       sass (~> 3.4)
     jekyll-seo-tag (2.5.0)
       jekyll (~> 3.3)
-    jekyll-theme-strata (0.1.4)
-      jekyll (~> 3.5)
-      jekyll-feed (~> 0.9)
-      jekyll-seo-tag (~> 2.1)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (1.17.0)
@@ -77,7 +73,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.6)
   jekyll-feed (~> 0.6)
-  jekyll-theme-strata
   minima (~> 2.0)
   tzinfo (~> 1.2)
   tzinfo-data
