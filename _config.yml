@@ -19,17 +19,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   ["hip", "hip"]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: arychj
 
 # Build settings
 markdown: kramdown
 remote_theme: arychj/jekyll-theme-strata
 plugins:
   - jekyll-feed
-
-nav:
-  - index.md
-  - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -42,5 +37,15 @@ nav:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+nav:
+  - index.md
+  - about.md
+
+rss: true
+
+links:
+  resume: https://arychj.github.io
+  github_username: arychj
 
 date_format: "%F"
