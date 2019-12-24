@@ -23,7 +23,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 markdown: kramdown
 remote_theme: hydecorp/hydejack
-#remote_theme: arychj/jekyll-theme-strata
 plugins:
   - jekyll-feed
 
@@ -39,9 +38,11 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-nav:
-  - index.md
-  - about.md
+menu:
+  - title: Home
+    url: index.md
+  - title: About
+    url: about.md
 
 rss: true
 
