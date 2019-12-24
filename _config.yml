@@ -40,9 +40,9 @@ plugins:
 
 menu:
   - title: Home
-    url: index.md
+    url: /index/
   - title: About
-    url: about.md
+    url: /about/
 
 rss: true
 
