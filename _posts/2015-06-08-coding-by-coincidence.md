@@ -28,7 +28,7 @@ You’re probably wondering by now where I’m going with this… Well, as I sai
 
 Here’s a snippet of the send code as originally written, can you spot the problem?
 
-```	
+```cs	
 public bool SendQueuedMessage(...){
     SendMessage(...);
 }
@@ -60,7 +60,7 @@ Now why is this bug only affecting 5% of the outgoing messages? Because it’s o
 
 Thankfully the problem was easily solved by adding a single line of code:
 
-```	
+```cs	
 public bool SendQueuedMessage(...){
     SendMessage(...);
 }
