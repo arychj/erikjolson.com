@@ -39,7 +39,7 @@ plugins:
 
 menu:
   - title: Home
-    url: /index/
+    url: /
   - title: About
     url: /about/
 
