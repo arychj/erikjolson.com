@@ -58,3 +58,6 @@ author:
     rss: https://new.erikjolson.com/feed.xml
 
 date_format: "%F"
+
+accent_image: /assets/img/sidebar-bg.jpg
+
