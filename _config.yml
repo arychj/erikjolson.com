@@ -59,7 +59,7 @@ author:
     resume: https://arychj.github.io
     rss: https://new.erikjolson.com/feed.xml
 
-date_format: "%F"
+date_format: "%Y-%m-%d"
 
 accent_image: /assets/img/sidebar-bg.jpg
 
