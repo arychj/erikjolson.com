@@ -16,6 +16,8 @@
 title: erikjolson.com
 description: >- # this means to ignore newlines until "baseurl:"
   ["hip", "hip"]
+favicon: /assets/img/logo.png
+apple_touch_icon: /assets/img/logo.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 cover: true
