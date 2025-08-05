@@ -65,6 +65,6 @@ accent_image: /assets/img/sidebar-bg.jpg
 
 hydejack:
   dark_mode:
-    dynamic: true
-    icon:    true
-    always:  false
+    dynamic: false
+    icon:    false
+    always:  true
