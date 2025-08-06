@@ -16,6 +16,7 @@ gem "jekyll", "4.4.1"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem "jekyll-avatar"
   gem "jekyll-feed", "~> 0.17"
 end
 
