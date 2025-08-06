@@ -2,6 +2,7 @@
 layout: page
 title: PGP Public Key
 permalink: /contact/pgp-public-key/
+sitemap: false
 ---
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
