@@ -54,6 +54,9 @@ rss: true
 author:
   name: Erik J. Olson
   email: hello@erikjolson.com
+  picture: /assets/img/me.jpg
+  about: |
+    test test test
   social:
     github: arychj
     resume: https://arychj.github.io
