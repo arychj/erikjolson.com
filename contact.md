@@ -6,7 +6,7 @@ permalink: /contact/
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.0/font/bootstrap-icons.css">
-<form method="POST" action="/contact/submit">
+<form method="POST" action="https://contact.erikjolson.com/submit">
     <div class="form-floating mb-3">
         <input type="text" class="form-control" id="name" name="name" placeholder="name@example.com" required>
         <label for="name">Your name</label>
