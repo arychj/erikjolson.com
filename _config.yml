@@ -64,7 +64,7 @@ author:
     contact: /contact
     rss: https://new.erikjolson.com/feed.xml
 
-date_formats: "%Y-%m-%d"
+date_format: "%Y-%m-%d"
 
 accent_image: /assets/img/sidebar-bg.jpg
 
