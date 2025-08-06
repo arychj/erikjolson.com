@@ -1,3 +1,6 @@
+contact:
+  name: Contact
+  icon: icon-envelop
 resume:
   name: Resume
   icon: icon-profile
