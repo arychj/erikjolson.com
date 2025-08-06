@@ -7,7 +7,7 @@ resume:
 qrz:
   name: Callsign
   icon: icon-broadcast
-  prefix: https://www.qrz.com/db/
+  prepend: https://www.qrz.com/db/
 rss:
   name: RSS
   icon: icon-feed
