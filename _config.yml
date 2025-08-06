@@ -27,8 +27,9 @@ no_drawer: false
 markdown: kramdown
 remote_theme: hydecorp/hydejack
 plugins:
-  - jekyll-feed
   - jekyll-avatar
+  - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -86,4 +87,7 @@ collections:
   featured_tags:
     permalink:         /tag-:name/
     output:            true
+
+paginate:      10
+paginate_path: '/:num/'
 
