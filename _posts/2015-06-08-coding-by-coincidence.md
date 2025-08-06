@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Coding by Coincidence"
+date: 2015-06-08 00:00:01 -0500
+categories: [post-mortems]
+tags: [dotnet, college, dartmouth-hitchcock, email, pragmatic-programmer, silly-mistakes]
+---
 I learned a lot of things in college, but the most important lessons were not facts or algorithms or theories but rather ways of thinking about and approaching problems. One of the strongest lessons that has stuck with me over the years was a phrase that one of my professors, [Dr. Ford][richard-ford], repeated ad nauseam: “coding by coincidence.”
 
 Pragmatic Programmer
