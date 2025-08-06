@@ -19,7 +19,9 @@ The last component is the mantissa, but it’s really just the fractional part o
 
 Putting this all together leads us to the max integer value of:
 
-![1.8x10^306](/assets/img/posts/infinity-18-10-308.png)
+$$
+2^{1023}*(2-2^{-52})=2^{1024}-2^{971} \approx 2^{1024} \approx 1.8*10^{308}
+$$
 
 Therefore, anything greater than that number is defined as being equal to infinity, which leads to the behavior encountered above.
 
